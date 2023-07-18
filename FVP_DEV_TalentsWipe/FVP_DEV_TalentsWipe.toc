@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: FVP_DEV_TalentsWipe v0.1
+## Notes: For addon discount timer on talent wipes.
+
+FVP_DEV_TalentsWipe.lua
