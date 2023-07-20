@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: FVP_DEV_Creatures v0.1
+## Notes: Addon for getting model creatures.
+## SavedVariables: FVPA_CreatureList
+
+FVP_DEV_Creatures.lua
