@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: FVP_DEV_Screenshoter v0.1
+## Notes: Supporting addon for the development for VanillaPlus server.
+
+FVP_DEV_Screenshoter.lua
